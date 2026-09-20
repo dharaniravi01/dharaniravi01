@@ -14,16 +14,14 @@ My work spans data analytics, machine learning and business intelligence, with p
 
 ## Featured Projects
 
-### Healthcare Machine Learning Analysis
+### [Healthcare Machine Learning Analysis](https://github.com/dharaniravi01/healthcare-machine-learning-analysis)
 Applied PCA, K-Means clustering, regression and classification techniques across healthcare datasets to analyse global healthcare patterns and build predictive models for life expectancy and diabetes risk.
 
-### Flight Delay & Diversion Analysis
+### [Flight Delay & Diversion Analysis](https://github.com/dharaniravi01/flight-delay-diversion-analysis)
 Analysed large-scale US aviation data using Python and R to investigate flight delay patterns and develop logistic regression models for flight diversion risk.
 
-### Profitability & Discount Strategy Analysis
+### [Profitability & Discount Strategy Analysis](https://github.com/dharaniravi01/profitability-discount-strategy-analysis)
 Used Tableau to analyse sales, profitability and discount patterns, translating the findings into actionable business recommendations.
-
-## Areas of Interest
 
 - Data Analytics
 - Data Science
